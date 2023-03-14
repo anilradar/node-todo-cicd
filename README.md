@@ -1,4 +1,4 @@
-This is the nodo todo cicd pipeline Hands-on project
+This is the nodo todo cicd pipeline project
 # node-todo-cicd
 
 Run these commands:
